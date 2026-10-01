@@ -1,0 +1,8 @@
+umap-learn 
+plotly
+nbformat
+scikit-learn
+matplotlib
+numpy
+ipykernel
+ipywidgets
